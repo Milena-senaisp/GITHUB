@@ -1,0 +1,126 @@
+ATIVIDADE 3 
+
+INICIO 
+
+<!DOCTYPE html>
+<html lang="pt/br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empresa de quadrinhos UP!</title>
+</head>
+<body>
+    <h1>LOJA DE QUADRINHOS UP!</h1>
+    <a href="./03Inicio.html" >Página de Início</a>
+    <a href="./03HQMarvel.html" >HQs da Marvel</a>
+    <a href="./03HQDcComics.html" >HQs da DC Comics</a>
+    <h1> Início</h1>
+    <img src="https://www.comix.com.br/media/catalog/category/CAPA-HOME_1400x350_ARRAIA-2024.jpg" alt="ícone de QUEIMA DE MANGÁS - promoção">
+    <h2> Mangás com 15% de desconto - Aproveite!</h2>
+    <img src="./ImgDessaPasta/01.png" alt="Jujutsu Kaisen: Batalha De Feiticeiros 0 - Novel - R$: 42,42 ">
+    <img src="./ImgDessaPasta/02.png" alt="Jiraya - O Novo Império dos Ninjas - R$:84,92">
+    <img src="./ImgDessaPasta/03.png" alt="Haihyu!! Nº13 - R$: 49,22">
+    <img src="./ImgDessaPasta/04.png" alt="Elden Ring: O Caminho Para Térvore 04- R$: 34,77">
+    <img src="./ImgDessaPasta/05.png" alt="O Homem e seu gato Vol.01 - R$: 33,07">
+    <img src="./ImgDessaPasta/06.png" alt="Dandadan Vol 10 - R$: 34,77">
+    <img src="./ImgDessaPasta/07.png" alt="Chaisaw Man - 16 - R$: 33,92">
+    <img src="./ImgDessaPasta/08.png" alt="Bleach Remix Vol. 23 - R$:55,17">
+    <img src="./ImgDessaPasta/09.png" alt="Ao Ahi - Craques da Bola Vol.09- R$: 33,92">
+    <img src="./ImgDessaPasta/10.png" alt="Fire! Vol. 2 (de 2) - R$: 93,42">
+    <img src="https://www.comix.com.br/media/mageplaza/bannerslider/banner/image/m/a/mangas-capa-home-1400x350_-fev2024.jpg" alt="ícone de promoção">
+    
+<h2>Mais vendidos até agora!</h2>
+<img src="./ImgDessaPasta/11.png" alt="Thunder  Vol.1 - R$:33,92">
+<img src="./ImgDessaPasta/12.png" alt="Wind Breaker 11- Edição Integral - R$:33,92 ">
+<img src="./ImgDessaPasta/13.png" alt="O Verão Em Que Hiraku Morreu 04 - R$:33,92">
+<img src="./ImgDessaPasta/14.png" alt="Watch Dogs Tokyo Vol 1 - R$:31,37">
+<img src="./ImgDessaPasta/15.png" alt="O único dos Vilões é a Morte: Livro 4- R$:59,42">
+
+<img src="https://www.comix.com.br/media/mageplaza/bannerslider/banner/image/c/a/capa-home_1400x350_queima-mangas-2024.jpg" alt="ícone de promoção">
+    
+
+<h2>Para Colecionar!</h2>
+<h3>3 Volúmes:</h3>
+<img src="./ImgDessaPasta/16.png" alt="Colecao O Tempo com Você Com 3 Volúmes">
+<img src="./ImgDessaPasta/17.png" alt="Combo: O Universo de Sandman: O SOnhar Com 3 Volumes - R$:169,92">
+<img src="./ImgDessaPasta/18.png" alt="Combo Fairy Gaiden Com 3 Volúmes - R$:69,90">
+<img src="./ImgDessaPasta/19.png" alt="Box: Conan, o Bárbaro 03 Volumes + Pôster + Livreto - R$:195,42">
+<img src="./ImgDessaPasta/20.png" alt="Box: Musashi (03 volume)- R$:297,00">
+<img src="https://www.comix.com.br/media/wysiwyg/banner-rodape-categoria_home-bloco_mangas.jpg" alt="Icone de Mangás">
+
+<h4>Site utilizado como refência:</h4>
+<a href="https://www.comix.com.br/mangas.html?product_list_limit=48" >Site de Mangás - Comix Book Shop</a>
+
+</body>
+</html>
+
+HQs MARVEL
+
+<!DOCTYPE html>
+<html lang="pt/br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empresa de quadrinhos UP!</title>
+</head>
+<body>
+    <h1>LOJA DE QUADRINHOS UP!</h1>
+    <a href="./03Inicio.html" >Página de Início</a>
+    <a href="./03HQMarvel.html" >HQs da Marvel</a>
+    <a href="./03HQDcComics.html" >HQs da DC Comics</a>
+    <h1> HQs da Marvel</h1>
+    <img src="https://www.comix.com.br/media/mageplaza/bannerslider/banner/image/m/a/marvel-capa-home-1400x350_-fev2024.jpg" alt="ícone de Mangás da Marvel">
+
+    <h2>Mais vendidos até agora!</h2>
+<img src="./ImgDessaPasta/21.png" alt="Mini série Homem de Ferro (Abril) 4 Edições - R$:84,99">
+<img src="./ImgDessaPasta/22.png" alt="Marvel Verse: Deadpool E Wolverine - R$:25,42 ">
+<img src="./ImgDessaPasta/23.png" alt="O Espetacular Homem-Aranha Vol 19/63 - R$:23,72">
+<img src="./ImgDessaPasta/24.png" alt="Hulk: Cinza (Marvel Essenciais) - R$:63,67">
+<img src="./ImgDessaPasta/25.png" alt="Coleção Conan Rei Com 24 Volumes - R$:699,99">
+<img src="./ImgDessaPasta/26.png" alt="O Fantasma o Tesouro do Fantasma - R$:25,42">
+<img src="./ImgDessaPasta/27.png" alt="Minisserie Elektra Saga formatinho em 06 Partes editora Abril 1989 - R$:127,49">
+<img src="./ImgDessaPasta/28.png" alt="Demolidor: Edição Defiitiva Vol. 3 - R$:187,77">
+<img src="./ImgDessaPasta/29.png" alt="A Saga Do Homem-Aranha Vol 15 - R$:33,92">
+<img src="./ImgDessaPasta/30.png" alt="Quarteto Fantástico: Molecúlas Instáveis - R$:188,92">
+
+
+<img src="https://www.comix.com.br/media/mageplaza/bannerslider/banner/image/c/a/capa-home_1400x350_queima-mangas-2024.jpg" alt="QUEIMA DE MANGÁS"
+
+<h4>Site utilizado como refência:</h4>
+<a href="https://www.comix.com.br/mangas.html?product_list_limit=48" >Site de Mangás - Comix Book Shop</a>
+
+</body>
+</html>
+
+HQs DC
+
+<!DOCTYPE html>
+<html lang="pt/br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empresa de quadrinhos UP!</title>
+</head>
+<body>
+    <h1>LOJA DE QUADRINHOS UP!</h1>
+    <a href="./03Inicio.html" >Página de Início</a>
+    <a href="./03HQMarvel.html" >HQs da Marvel</a>
+    <a href="./03HQDcComics.html" >HQs da DC Comics</a>
+    <h1> HQs da DC Comics</h1>
+    <img src="https://www.comix.com.br/media/mageplaza/bannerslider/banner/image/d/c/dc-capa-home-1400x350_-fev2024.jpg">
+
+    <h2>Aproveite a promoção de 15% de desconto! As Maiores SAGAS estão aqui!</h2>
+<img src="./ImgDessaPasta/31.png" alt="Batman/Superman: Os Meljores do Mundo Vol.20 - R$:16,92 ">
+<img src="./ImgDessaPasta/32.png" alt="As Mais Belas Fábulas - Edição De Luxo Vol. 1 - R$:162,27">
+<img src="./ImgDessaPasta/33.png" alt="A Saga Do Flash- R$:33,92">
+<img src="./ImgDessaPasta/34.png" alt="Supergirl Por Peter David E Gary Frank Vol 02- R$:131,67">
+
+
+
+<img src="https://www.comix.com.br/media/mageplaza/bannerslider/banner/image/c/a/capa-home_1400x350_queima-mangas-2024.jpg" alt="QUEIMA DE MANGÁS"
+
+<h4> Site utilizado como refência:</h4>
+<a href="https://www.comix.com.br/mangas.html?product_list_limit=48" >Site de Mangás - Comix Book Shop</a>
+
+</body>
+</html>

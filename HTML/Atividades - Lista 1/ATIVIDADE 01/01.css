@@ -1,0 +1,36 @@
+h1 {
+    color:rgb(63, 0, 77);
+    background-color: rgb(255, 255, 255);
+    font-size: 110px;
+    border-radius: 30px; 
+    text-align: center;
+    }
+    
+    h2 { 
+        color:rgb(108, 7, 145);
+    font-size: 110px;
+    border-radius: 30px; 
+    text-align: left;
+    }
+
+    p{
+        color:rgb(0, 0, 0);
+    font-size: 100px;
+    border-radius: 30px; 
+    text-align: left;
+    }
+
+    h3{
+        color:rgb(108, 7, 145);
+        font-size: 110px;
+        border-radius: 30px; 
+        text-align: left;
+    }
+    body{
+        background-color: rgb(198, 203, 255);
+    }
+    img{
+        width: 200px;
+        height: 200px;
+        
+    }

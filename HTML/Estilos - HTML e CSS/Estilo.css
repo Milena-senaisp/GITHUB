@@ -1,0 +1,16 @@
+p {
+color:rgb(255, 255, 255);
+background-color: rgb(63, 107, 42);
+font-size: 60px;
+border-radius: 12px; 
+text-align: center;
+}
+
+body{
+    background-color: rgb(43, 226, 153);
+}
+img{
+    width: 200px;
+    height: 200px;
+    
+}

@@ -1,0 +1,19 @@
+ATIVIDADE 1 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifólio da Milena Amorim</title>
+</head>
+<body>
+    <h1>Portifólio da Milena</h1>
+    <h2>Meu nome e algumas curiosidades sobre mim:</h2>
+    <p> - Me chamo Milena Maria de Amorim Silva e tenho 16 anos. Nasci e cresci em Brasil, SP. </p>
+    <p> - Desde o 1º ano do Ensino Fundamental, estudo no Sesi- 240 e agora estou no 2º ano do Ensino Médio.</p>
+    <p> - Curso Desenvolvimento de Sistemas na escola SENAI - Suzano.</p>
+    <p> - Eu gosto de várias coisas, dentre elas: assistir Netflix, ler livros ou mangás, assistir animes, escutar música e jogar.</p>
+    <p> - Não tenho um filme favorito, mas gosto bastante de "A Voz do Silêncio" e "Por Lugares Incríveis". De Livro seria "O Diário de Anne Frank".</p>
+    <p> - Há 2 lugares que tenho interesse de visitar, são eles: Japão e um estado dos EUA chamada "Indiana".</p>
+</body>
+</html>
